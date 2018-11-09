@@ -1,4 +1,4 @@
-Title,Artist,Peak_Position_x,Song ID,Song Popularity,Acousticness,Danceability,Energy,Liveness,Speechiness,Valence,Tempo,Instrumentalness,Loudness,Date
+Title,Artist,Peak_Position,Song ID,Song Popularity,Acousticness,Danceability,Energy,Liveness,Speechiness,Valence,Tempo,Instrumentalness,Loudness,Date
 """Yep!""",Duane Eddy His Twangy Guitar And The Rebels,30,,,,,,,,,,,,1959-03-25
 'Til,The Angels,14,4xDL1E4h0s3gHADCG7EQBd,0.0,0.725,0.508,0.368,0.133,0.0248,0.337,90.04299999999999,0.818,-7.697,1961-10-11
 ('til) I Kissed You,The Everly Brothers,4,0hA25gRi0Gh56Lb1wrud2Q,0.0,0.0231,0.7040000000000001,0.6859999999999999,0.183,0.0284,0.579,138.562,0.0,-8.509,1959-08-12
